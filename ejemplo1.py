@@ -1,3 +1,6 @@
+def saludar()
+    print("Hola estoy en el pasado")
+    
 def saludando():
     print("Hola chicos arrancamos con GIT")
 
